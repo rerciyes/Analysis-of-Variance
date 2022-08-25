@@ -1,2 +1,2 @@
 # Analysis-of-Variance
-Some functions for ANOVA | Toolbox
+Please check the readme.pdf for the input-output format of the functions
